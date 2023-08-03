@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage": "https://adeyinkaoresanya.github.io/npm install --save gh-pages",
+    "homepage": "https://adeyinkaoresanya.github.io/react-app-for-gh-pages",
     "predeploy": "npm run build",
       "deploy": "gh-pages -d build",
     "start": "react-scripts start",
